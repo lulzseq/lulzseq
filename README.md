@@ -1,17 +1,21 @@
-# Hi there 👋 I'm Dmitry
+# Hi there 👋 I'm Dmitry 
 
 - 🇷🇺 I live in Moscow, Russia.
-- 🐍 I'm a junior developer with math and data science background.
+- 🐍 I'm a junior developer with math and machine learning background.
 - 🤖 Most of the time I'm writing on Python.
 - ✉️ You can shoot me an email at [dmitrykuznetsovx@gmail.com](mailto:dmitrykuznetsovx@gmail.com) or social networks 
   below.
 
-#### My CV: [Dmitry Kuznetsov.pdf](https://raw.githubusercontent.com/lulzseq/profile/master/cv.pdf)
+#### My CV: [Dmitry Kuznetsov.pdf](https://raw.githubusercontent.com/lulzseq/lulzseq/master/cv.pdf)
 
 ## 🛠 My fancy badge area
 
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white) ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![pycharm](https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white) ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![opencv](https://img.shields.io/badge/Opencv-redgreen?&style=for-the-badge&logo=opencv&logoColor=white) ![tensorflow](https://img.shields.io/badge/tensorflow%20-%23FF9002?&style=for-the-badge&logo=tensorflow&logoColor=white)
+![python](https://img.shields.io/badge/python%20-%23255074.svg?&style=for-the-badge&logo=python&logoColor=white) ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/github%20-%23000408.svg?&style=for-the-badge&logo=github&logoColor=white) ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![opencv](https://img.shields.io/badge/Opencv-redgreen?&style=for-the-badge&logo=opencv&logoColor=white) ![tensorflow](https://img.shields.io/badge/tensorflow%20-%23FF9002?&style=for-the-badge&logo=tensorflow&logoColor=white) ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![pycharm](https://img.shields.io/badge/pycharm-%237CE46F.svg?&style=for-the-badge&logo=pycharm&logoColor=black)
 
 ## 🤝 Connect with me
 
-[![dmitrykuznetsovx@gmail.com](https://img.shields.io/badge/email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dmitrykuznetsovx@gmail.com) [![facebook](https://img.shields.io/badge/facebook%20-%230B83ED.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmitrykuznetsovx) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrykuznetsov/)
+[![dmitrykuznetsovx@gmail.com](https://img.shields.io/badge/email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dmitrykuznetsovx@gmail.com) [![telegram](https://img.shields.io/badge/telegram%20-%2326A4E3.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kuznecov) [![facebook](https://img.shields.io/badge/facebook%20-%230B83ED.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmitrykuznetsovx) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrykuznetsov/)
+
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=lulzseq&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
+
+[//]: # ([![KnlnKS's LeetCode stats]&#40;https://leetcode-stats-six.vercel.app/api?username=lulzseq&theme=dark&#41;]&#40;https://github.com/KnlnKS/leetcode-stats&#41;)
