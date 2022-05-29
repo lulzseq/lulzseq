@@ -6,7 +6,7 @@
 - ✉️ You can shoot me an email at [dmitrykuznetsovx@gmail.com](mailto:dmitrykuznetsovx@gmail.com) or social networks 
   below.
 
-#### My CV: [watch online](https://resume.io/r/cCjDzxkEK) or [download PDF](https://raw.githubusercontent.com/lulzseq/lulzseq/master/cv.pdf)
+#### My CV: [watch](https://resume.io/r/cCjDzxkEK) or [download PDF](https://raw.githubusercontent.com/lulzseq/lulzseq/master/cv.pdf)
 
 ## 🛠 My fancy badge area
 
