@@ -13,7 +13,7 @@
 
 ## 🤝 Connect with me
 
-[![dmitrykuznetsovx@gmail.com](https://img.shields.io/badge/email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dmitrykuznetsovx@gmail.com) [![telegram](https://img.shields.io/badge/telegram%20-%2326A4E3.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lulzseq) [![facebook](https://img.shields.io/badge/facebook%20-%230B83ED.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmitrykuznetsovx) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrykuznetsov/)
+[![dmitrykuznetsovx@gmail.com](https://img.shields.io/badge/email%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dmitrykuznetsovx@gmail.com) [![telegram](https://img.shields.io/badge/telegram%20-%2326A4E3.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lulzseq) [![twitter](https://img.shields.io/badge/twitter%20-%231B9BF0.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lulzseq) [![facebook](https://img.shields.io/badge/facebook%20-%230B83ED.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmitrykuznetsovx) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrykuznetsov/)
 
 [//]: # (## ![]&#40;https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png&#41; LeetCode fun)
 
