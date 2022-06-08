@@ -13,7 +13,7 @@ body {
 }
 
 .markdown-body h1,
-.markdown-body h1 {
+.markdown-body h2 {
     color: #dddddd !important;
     border-bottom: 1px solid #999999 !important;
 }
@@ -22,6 +22,6 @@ h1:first-of-type {
     display: none
 }
 
-p, li, h1, h2 {
-    color: #c9d1d9;
+p, li {
+    color: #dddddd;
 }
