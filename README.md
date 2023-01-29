@@ -12,8 +12,6 @@
 
 [![telegram](https://img.shields.io/badge/telegram%20-%2326A4E3.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lulzseq) [![twitter](https://img.shields.io/badge/twitter%20-%231B9BF0.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lulzseq) [![facebook](https://img.shields.io/badge/facebook%20-%230B83ED.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmitrykuznetsovx) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrykuznetsov/)
 
-[//]: # (## ![]&#40;https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png&#41; LeetCode fun)
+## <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" width="24"/> Leetcode time
 
-[//]: # ([![KnlnKS's LeetCode stats]&#40;https://leetcode-stats-six.vercel.app/api?username=lulzseq&theme=dark&#41;]&#40;https://github.com/KnlnKS/leetcode-stats&#41;)
-
-[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=lulzseq&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lulzseq?ext=activity&theme=nord)
