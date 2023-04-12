@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dmitry
 
-- 🇷🇺 I live in Moscow, Russia.
+- 🇸🇬 I live in Singapore.
 - 🐍 I'm a Python developer with math and machine learning background.
 - ✉️ You can shoot me on social networks below.
 
